@@ -196,9 +196,9 @@ ul {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  /* margin-top: 94px;
+  margin-top: 94px;
 
-  background-color: tomato; */
+  /* background-color: tomato; */
   margin-right: auto;
   margin-left: auto;
   /* outline: 2px solid blue; */
@@ -235,8 +235,8 @@ ul {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  /* margin-top: 94px;
-  background-color: tomato; */
+  margin-top: 94px;
+  /* background-color: tomato; */
 
   margin-right: auto;
   margin-left: auto;
@@ -261,9 +261,9 @@ ul {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  /* margin-top: 94px;
+  margin-top: 94px;
 
-  background-color: tomato; */
+  /* background-color: tomato; */
   margin-right: auto;
   margin-left: auto;
   /* outline: 2px solid blue; */
@@ -400,9 +400,9 @@ ul {
   padding-right: 15px;
   margin-right: auto;
   margin-left: auto;
-  /* margin-top: 92px;
+  margin-top: 92px;
   margin-bottom: 92px;
-  background-color: tomato; */
+  /* background-color: tomato; */
 }
 .main-button {
   justify-content: center;
