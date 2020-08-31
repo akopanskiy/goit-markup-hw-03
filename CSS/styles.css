@@ -230,6 +230,7 @@ ul {
 /* чем ми занимаемся */
 .works {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .section-item {
@@ -264,7 +265,6 @@ ul {
 /* наша команда */
 .team {
   background-color: var(--background-team);
-  padding-top: 94px;
 }
 .container-team {
   width: 1200px;
